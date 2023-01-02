@@ -1,4 +1,4 @@
-# notebooks
+# Notebooks
 
 misc notebooks i wanted to put in tracking
 
