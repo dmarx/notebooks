@@ -1,3 +1,9 @@
+venv/
+_venv/
+sandbox.ipynb
+v1-inference.yaml
+frames/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

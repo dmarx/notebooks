@@ -1,0 +1,30 @@
+#########
+# in nb
+ftfy
+einops
+braceexpand
+requests
+transformers
+clip
+open_clip_torch
+omegaconf
+pytorch-lightning
+kornia
+k-diffusion
+ninja
+napm
+keyframed
+git+https://github.com/huggingface/huggingface_hub
+
+###########
+# local extra deps
+torch
+torchvision
+torchsde
+numpy
+pillow
+requests
+jupyter
+pandas
+tensorboard
+matplotlib
