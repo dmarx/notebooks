@@ -1,8 +1,9 @@
 venv/
 _venv/
+frames/
 sandbox.ipynb
 v1-inference.yaml
-frames/
+config_vae_kl-f8.yaml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
