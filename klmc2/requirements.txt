@@ -27,3 +27,4 @@ requests
 jupyter
 pandas
 tensorboard
+matplotlib
