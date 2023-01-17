@@ -1,0 +1,26 @@
+torch
+torchvision
+torchsde
+numpy
+pillow
+requests
+jupyter
+pandas
+
+#########
+# in nb
+ftfy
+einops
+braceexpand
+requests
+transformers
+clip
+open_clip_torch
+omegaconf
+pytorch-lightning
+kornia
+k-diffusion # oh neat!
+ninja
+napm
+keyframed
+git+https://github.com/huggingface/huggingface_hub
