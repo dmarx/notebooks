@@ -1,6 +1,7 @@
 venv/
 _venv/
 frames*/
+archive/
 sandbox.ipynb
 v1-inference.yaml
 config_vae_kl-f8.yaml
