@@ -28,3 +28,5 @@ jupyter
 pandas
 tensorboard
 matplotlib
+
+natsort
