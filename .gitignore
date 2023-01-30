@@ -5,6 +5,7 @@ archive/
 sandbox.ipynb
 v1-inference.yaml
 config_vae_kl-f8.yaml
+local/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
