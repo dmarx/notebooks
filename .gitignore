@@ -1,6 +1,7 @@
 venv/
 _venv/
 frames*/
+*frames/
 archive/
 sandbox.ipynb
 v1-inference.yaml
