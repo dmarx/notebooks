@@ -1,11 +1,13 @@
 venv/
 _venv/
 frames*/
+*frames/
 archive/
 sandbox.ipynb
 v1-inference.yaml
 config_vae_kl-f8.yaml
 local/
+*.mp4
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
